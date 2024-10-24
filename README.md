@@ -3,7 +3,7 @@
 
 In this notebook, we demo just one of the numerous capabilities enabled by a truly multilingual workflow as that which is enabled by Aya Expanse by Cohere For AI and Cohere.
 
-Overall Objective:
+## Overall Objective:
 
 People often would like to try a local cuisine, but the authentic recipes are often in the language of origin -- finding the ingredients, substitutes and other information is challenging and limits creativity.
 
