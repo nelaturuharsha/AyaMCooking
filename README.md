@@ -1,4 +1,4 @@
-![AyaMCooking Logo](./assets/AyaMCookingLogo.png)
+![AyaMCooking Logo](./AyaMCookingLogo.png)
 
 # AyaMCooking 🍳
 Bhavnick Minhas*<sup>1</sup>, Sree Harsha Nelaturu*<sup>1</sup> </br>
